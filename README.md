@@ -11,6 +11,6 @@ Firstly we studied some basic concepts of probability-
 
 Next, we studied Poisson's and Exponential Distributions followed by Mondrian Process.
 
-Our next plan is to start implementing Mondrian Process and then analyze the random features of laplacian Kernels.
+Mondrian process can be used instead of laplacian kernels. Th benefit of this would be that we dont have to store the large data sets while tsting the data.
 
 
